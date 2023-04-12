@@ -1,3 +1,6 @@
 [submodule "CS310-Mobile-Computing/bank-microservice-rest-api"]
 	path = CS310-Mobile-Computing/bank-microservice-rest-api
 	url = https://github.com/Benediximuss/bank-microservice-rest-api
+[submodule "CS310-Mobile-Computing/NewsApp"]
+	path = CS310-Mobile-Computing/NewsApp
+	url = https://github.com/Benediximuss/NewsApp
