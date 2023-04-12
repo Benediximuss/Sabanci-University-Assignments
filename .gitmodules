@@ -4,6 +4,3 @@
 [submodule "CS310-Mobile-Computing/NewsApp"]
 	path = CS310-Mobile-Computing/NewsApp
 	url = https://github.com/Benediximuss/NewsApp
-[submodule "CS310-Mobile-Computing/Minesweeper"]
-	path = CS310-Mobile-Computing/Minesweeper
-	url = https://github.com/Benediximuss/Minesweeper
