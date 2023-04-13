@@ -1,0 +1,6 @@
+man ls > output1.txt
+grep description -i < output1.txt
+ls -l 
+wc output1.txt
+wait
+ls &
