@@ -6,8 +6,6 @@
 
 using namespace std;
 
-// UGUR OZTUNC 28176 HW3 I could not be able to finish it due to midterms sir :/
-
 busLine* createNetwork(string &fileName) { //	creates the network of lines and stops, returns the head pointer for bus lines
 
 	ifstream input;
