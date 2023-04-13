@@ -7,3 +7,6 @@
 [submodule "CS204-Advanced-Programming/Homework 1 - MineSweeper/Minesweeper"]
 	path = CS204-Advanced-Programming/Homework 1 - MineSweeper/Minesweeper
 	url = https://github.com/Benediximuss/Minesweeper
+[submodule "CS204-Advanced-Programming/Homework 6/Bitwise-Calculator-MFC"]
+	path = CS204-Advanced-Programming/Homework 6/Bitwise-Calculator-MFC
+	url = https://github.com/Benediximuss/Bitwise-Calculator-MFC
