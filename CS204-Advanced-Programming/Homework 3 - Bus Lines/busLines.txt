@@ -1,0 +1,5 @@
+133U: Sabanci Nakliyeciler Viaport Pendik Kartal
+132B: Akfirat Kimyaciler Birkent Viaport Pendik
+15K: Emniyet Beyazit Vergi_Dairesi Sabiha_Gokcen Eminonu
+166A: Seyhli Birkent Cam_Evleri Benzinlik Nakliyeciler
+500T: Guzelyali Pendik_Koprusu Kartal_Koprusu Bostanci_Koprusu

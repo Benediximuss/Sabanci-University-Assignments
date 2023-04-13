@@ -1,0 +1,14 @@
+function_1:
+print stack;
+define x;
+define y;
+print stack;
+call function_2;
+print stack;
+define z;
+print stack;
+call function_3;
+print stack;
+define c;
+define b;
+print stack;

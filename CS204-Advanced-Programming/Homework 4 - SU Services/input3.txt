@@ -1,0 +1,8 @@
+function_3:
+print stack;
+define a;
+define x;
+define z;
+print stack;
+define c;
+print stack;

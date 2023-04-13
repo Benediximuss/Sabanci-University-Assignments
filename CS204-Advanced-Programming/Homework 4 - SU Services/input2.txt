@@ -1,0 +1,15 @@
+function_2:
+print stack;
+define a;
+define b;
+print stack;
+call function_3;
+print stack;
+define x;
+define y;
+define z;
+print stack;
+call function_3;
+print stack;
+define c;
+print stack;
