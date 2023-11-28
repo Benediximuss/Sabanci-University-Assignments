@@ -9,8 +9,9 @@ Sabanci University Undergraduate Assignments
 * CS210 - Introduction to Data Science
 * CS300 - Data Structures
 * CS301 - Algorithms
+* CS303 - Logic and System Design
 * CS307 - Operating Systems
 * CS310 - Mobile Computing
-
-
-
+* CS408 - Computer Networks
+* CS412 - Machine Learning
+* CS414 - Network Science
