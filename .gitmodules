@@ -10,3 +10,9 @@
 [submodule "CS204-Advanced-Programming/Homework 6 - Bitwise Calculator with GUI/Bitwise-Calculator-MFC"]
 	path = CS204-Advanced-Programming/Homework 6 - Bitwise Calculator with GUI/Bitwise-Calculator-MFC
 	url = https://github.com/Benediximuss/Bitwise-Calculator-MFC
+[submodule "CS408-Computer-Networks/TicTacToeClient"]
+	path = CS408-Computer-Networks/TicTacToeClient
+	url = https://github.com/Benediximuss/TicTacToeClient
+[submodule "CS408-Computer-Networks/TicTacToeServer"]
+	path = CS408-Computer-Networks/TicTacToeServer
+	url = https://github.com/mericmert/TicTacToeServer
