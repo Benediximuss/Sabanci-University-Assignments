@@ -16,3 +16,6 @@
 [submodule "CS408-Computer-Networks/TicTacToeServer"]
 	path = CS408-Computer-Networks/TicTacToeServer
 	url = https://github.com/mericmert/TicTacToeServer
+[submodule "Test/flutter-testing-project"]
+	path = Test/flutter-testing-project
+	url = https://github.com/Benediximuss/flutter-testing-project
