@@ -16,3 +16,6 @@
 [submodule "CS408-Computer-Networks/TicTacToeServer"]
 	path = CS408-Computer-Networks/TicTacToeServer
 	url = https://github.com/mericmert/TicTacToeServer
+[submodule "CS308-Software-Engineering/musicee-android"]
+	path = CS308-Software-Engineering/musicee-android
+	url = https://github.com/Benediximuss/musicee-android
