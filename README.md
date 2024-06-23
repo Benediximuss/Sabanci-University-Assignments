@@ -11,7 +11,10 @@ Sabanci University Undergraduate Assignments
 * CS301 - Algorithms
 * CS303 - Logic and System Design
 * CS307 - Operating Systems
+* CS308 - Software Engineering
 * CS310 - Mobile Computing
 * CS408 - Computer Networks
 * CS412 - Machine Learning
 * CS414 - Network Science
+* CS437 - Cybersecurity Practices and Applications
+* CS449 - Human Computer Interaction
