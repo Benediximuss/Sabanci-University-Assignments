@@ -19,3 +19,6 @@
 [submodule "CS308-Software-Engineering/musicee-android"]
 	path = CS308-Software-Engineering/musicee-android
 	url = https://github.com/Benediximuss/musicee-android
+[submodule "CS437-Cybersecurity-Practices-and-Applications/turkish-university-honeypot"]
+	path = CS437-Cybersecurity-Practices-and-Applications/turkish-university-honeypot
+	url = https://github.com/Benediximuss/turkish-university-honeypot
